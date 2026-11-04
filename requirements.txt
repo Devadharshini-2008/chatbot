@@ -1,2 +1,6 @@
 streamlit
-openai
+pandas
+matplotlib
+py3Dmol
+rdkit
+reportlab
